@@ -1,0 +1,1 @@
+Program([FuncDecl(zap,[],VoidType,Block([FuncCall(zap,[BooleanLiteral(true),BooleanLiteral(false)]),MethodCall(ArrayCell(Id(list),[IntLiteral(2)]),zap,[IntLiteral(10)])]))])

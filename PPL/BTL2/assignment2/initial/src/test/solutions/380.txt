@@ -1,0 +1,1 @@
+Program([FuncDecl(buzz,[],VoidType,Block([FuncCall(buzz,[IntLiteral(1)]),FuncCall(buzz,[FuncCall(buzz,[]),StringLiteral("start")]),MethodCall(Id(node),buzz,[]),MethodCall(FieldAccess(ArrayCell(Id(node),[IntLiteral(0)]),child),buzz,[BooleanLiteral(true),IntLiteral(3)])]))])

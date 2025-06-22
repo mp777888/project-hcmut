@@ -1,0 +1,1 @@
+Program([FuncDecl(end,[],VoidType,Block([FuncCall(end,[StringLiteral("done")]),FuncCall(end,[FuncCall(end,[]),IntLiteral(9)]),MethodCall(Id(signal),end,[]),MethodCall(FieldAccess(ArrayCell(Id(signal),[IntLiteral(3)]),state),end,[BooleanLiteral(false)])]))])

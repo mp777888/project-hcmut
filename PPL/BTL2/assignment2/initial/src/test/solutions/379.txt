@@ -1,0 +1,1 @@
+Program([FuncDecl(fizz,[],VoidType,Block([FuncCall(fizz,[]),FuncCall(fizz,[FuncCall(fizz,[])]),MethodCall(Id(arr),fizz,[]),MethodCall(FieldAccess(ArrayCell(Id(arr),[IntLiteral(4)]),data),fizz,[FloatLiteral(2.5)])]))])

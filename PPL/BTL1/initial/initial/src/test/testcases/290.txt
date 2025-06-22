@@ -1,0 +1,3 @@
+func (s Student) getName() string {
+    return s.name;
+}

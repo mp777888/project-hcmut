@@ -1,0 +1,1 @@
+Program([FuncDecl(bar,[],VoidType,Block([FuncCall(bar,[IntLiteral(5)]),MethodCall(ArrayCell(Id(x),[IntLiteral(0)]),bar,[IntLiteral(2)])]))])

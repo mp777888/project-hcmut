@@ -1,0 +1,7 @@
+
+        func foo () {
+            arr := [3]int{10, 20, 30}
+            for _, value := range arr {
+            // value: 10, 20, 30
+            }
+        }

@@ -1,0 +1,1 @@
+Program([VarDecl(a,IntType),FuncDecl(a,[ParDecl(a,IntType)],IntType,Block([Return(IntLiteral(1))]))])

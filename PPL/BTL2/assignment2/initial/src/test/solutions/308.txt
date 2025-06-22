@@ -1,0 +1,1 @@
+Program([ConstDecl(arrlit,ArrayLiteral([Id(ID)],IntType,[FloatLiteral(3.5)]))])

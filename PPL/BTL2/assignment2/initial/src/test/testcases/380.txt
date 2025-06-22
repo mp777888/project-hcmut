@@ -1,0 +1,7 @@
+
+        func buzz() {
+            buzz(1);
+            buzz(buzz(), "start");
+            node.buzz();
+            node[0].child.buzz(true, 3);
+        }

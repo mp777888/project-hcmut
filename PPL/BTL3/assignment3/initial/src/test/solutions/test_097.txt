@@ -1,0 +1,1 @@
+Type Mismatch: For(VarDecl(i,IntType,IntLiteral(0)),StringLiteral(not_boolean),Assign(Id(i),BinaryOp(Id(i),+,IntLiteral(1))),Block([FuncCall(putInt,[Id(i)])]))

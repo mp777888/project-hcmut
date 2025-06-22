@@ -1,0 +1,11 @@
+
+        type Person struct {
+            name string ;
+        }
+
+         func main(){
+            var a Person = Person{};
+            a.name := 5;
+        }
+
+        

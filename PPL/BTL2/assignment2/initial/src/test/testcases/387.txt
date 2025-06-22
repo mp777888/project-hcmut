@@ -1,0 +1,7 @@
+
+        func baz() {
+            data["key"] := data[0];
+            data[1][2] := data[baz()];
+            obj.prop[3] := obj.prop[4];
+            obj.prop[5][6] := obj.prop[5][7];
+        }

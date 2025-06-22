@@ -1,0 +1,1 @@
+Program([StructType(Point,[(x,FloatType),(y,FloatType)],[])])

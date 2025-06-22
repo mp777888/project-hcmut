@@ -1,0 +1,1 @@
+Program([FuncDecl(qux,[],VoidType,Block([Assign(Id(value),BinaryOp(Id(value),/,IntLiteral(4)))]))])

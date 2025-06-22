@@ -1,0 +1,1 @@
+Program([FuncDecl(baz,[],VoidType,Block([Assign(Id(count),BinaryOp(Id(count),*,IntLiteral(3)))]))])

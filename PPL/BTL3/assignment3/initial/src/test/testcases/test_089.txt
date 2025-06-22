@@ -1,0 +1,1 @@
+Program([StructType(Person,[(name,StringType),(age,IntType)],[]),VarDecl(p,StructLiteral(Person,[(name,StringLiteral(John)),(salary,IntLiteral(1000))]))])

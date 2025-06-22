@@ -1,0 +1,4 @@
+
+        func bar() {
+            return [3] Point { {5}, {"x"}, {true} };
+        };

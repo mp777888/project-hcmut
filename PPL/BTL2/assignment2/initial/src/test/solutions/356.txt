@@ -1,0 +1,1 @@
+Program([FuncDecl(fizz,[],VoidType,Block([Assign(Id(num),BinaryOp(Id(num),%,IntLiteral(6)))]))])

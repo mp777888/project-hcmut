@@ -1,0 +1,1 @@
+Program([StructType(Student,[(name,StringType)],[]),StructType(Student,[(id,IntType)],[])])

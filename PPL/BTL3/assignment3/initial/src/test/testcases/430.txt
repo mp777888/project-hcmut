@@ -1,0 +1,10 @@
+
+        func foo() string{
+            return "abc";
+        }
+
+        func main(){
+            var a int = 1;
+            a := foo();
+        }
+        

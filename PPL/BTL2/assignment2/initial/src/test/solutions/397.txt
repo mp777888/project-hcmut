@@ -1,0 +1,1 @@
+Program([FuncDecl(bar,[],VoidType,Block([Return(ArrayLiteral([IntLiteral(3)],Id(Point),[[IntLiteral(5)],[StringLiteral("x")],[BooleanLiteral(true)]]))]))])

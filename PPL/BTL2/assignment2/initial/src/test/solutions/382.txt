@@ -1,0 +1,1 @@
+Program([FuncDecl(process,[],VoidType,Block([FuncCall(process,[IntLiteral(6)]),FuncCall(process,[FuncCall(process,[])]),MethodCall(Id(queue),process,[]),MethodCall(FieldAccess(ArrayCell(Id(queue),[IntLiteral(1)]),task),process,[IntLiteral(7),IntLiteral(8)])]))])

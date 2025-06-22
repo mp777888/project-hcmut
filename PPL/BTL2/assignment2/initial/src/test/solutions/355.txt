@@ -1,0 +1,1 @@
+Program([FuncDecl(zap,[],VoidType,Block([Assign(Id(total),BinaryOp(Id(total),+,IntLiteral(5)))]))])

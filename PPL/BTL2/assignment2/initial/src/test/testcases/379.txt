@@ -1,0 +1,7 @@
+
+        func fizz() {
+            fizz();
+            fizz(fizz());
+            arr.fizz();
+            arr[4].data.fizz(2.5);
+        }

@@ -1,0 +1,7 @@
+
+        func process() {
+            process(6);
+            process(process());
+            queue.process();
+            queue[1].task.process(7, 8);
+        }

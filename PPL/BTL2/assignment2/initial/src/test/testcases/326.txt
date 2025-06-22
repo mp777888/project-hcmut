@@ -1,0 +1,12 @@
+
+        func foo () {
+            if (a){
+                return;
+            }else if(b){
+                return;
+            }else if(c){
+                return;
+            }else{
+                return;
+            }   
+        }

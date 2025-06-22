@@ -1,0 +1,4 @@
+
+        func zap() {
+            total += 5;
+        }

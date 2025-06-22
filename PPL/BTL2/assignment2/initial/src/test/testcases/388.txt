@@ -1,0 +1,7 @@
+
+        func qux() {
+            list[0][qux()] := list[1][2];
+            list[3] := list[4];
+            node.child[5] := node.child[6];
+            node.child[7][8] := node.child[7][9];
+        }

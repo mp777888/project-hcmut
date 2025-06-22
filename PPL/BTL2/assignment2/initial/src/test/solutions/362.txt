@@ -1,0 +1,1 @@
+Program([FuncDecl(fizz,[],VoidType,Block([FuncCall(fizz,[]),MethodCall(ArrayCell(Id(arr),[IntLiteral(4)]),fizz,[IntLiteral(5),StringLiteral("text")])]))])

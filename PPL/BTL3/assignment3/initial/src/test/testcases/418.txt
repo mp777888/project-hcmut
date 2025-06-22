@@ -1,0 +1,13 @@
+
+        var a int;
+        func (x b) c() {
+
+        }
+
+        type b struct {
+            c : int;
+        }
+
+        func (x b) a(){
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(square,[ParDecl(x,IntType)],IntType,Block([Return(BinaryOp(Id(x),*,Id(x)))])),FuncDecl(main,[],VoidType,Block([VarDecl(result,FuncCall(square,[IntLiteral(5)])),FuncCall(nonexistent_function,[]),Return()]))])

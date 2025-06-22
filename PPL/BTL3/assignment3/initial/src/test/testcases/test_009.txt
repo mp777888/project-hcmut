@@ -1,0 +1,1 @@
+Program([InterfaceType(Calculator,[Prototype(add,[],VoidType),Prototype(add,[FloatType,FloatType],VoidType)])])

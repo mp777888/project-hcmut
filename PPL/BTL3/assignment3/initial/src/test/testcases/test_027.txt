@@ -1,0 +1,1 @@
+Program([VarDecl(v,Id(TIEN)),ConstDecl(b,MethodCall(Id(v),foo,[])),StructType(TIEN,[(a,IntType)],[]),MethodDecl(v,Id(TIEN),FuncDecl(foo,[],IntType,Block([Return(IntLiteral(1))]))),MethodDecl(v,Id(TIEN),FuncDecl(koo,[],IntType,Block([Return(IntLiteral(1))]))),ConstDecl(c,MethodCall(Id(v),koo,[])),ConstDecl(d,MethodCall(Id(v),zoo,[]))])

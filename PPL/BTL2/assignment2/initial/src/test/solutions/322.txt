@@ -1,0 +1,1 @@
+Program([MethodDecl(Calculator,Id(c),FuncDecl(Add,[ParDecl(x,IntType),ParDecl(y,IntType)],IntType,Block([Return(BinaryOp(Id(x),+,Id(y)))])))])

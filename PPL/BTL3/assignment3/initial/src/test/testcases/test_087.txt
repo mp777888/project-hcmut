@@ -1,0 +1,1 @@
+Program([StructType(TIEN,[(a,ArrayType(IntType,[IntLiteral(2)]))],[]),InterfaceType(VO,[Prototype(foo,[],IntType)]),MethodDecl(v,Id(TIEN),FuncDecl(foo,[],IntType,Block([Return(IntLiteral(1))]))),FuncDecl(foo,[ParDecl(a,Id(VO))],VoidType,Block([VarDecl(b,StructLiteral(TIEN,[(a,ArrayLiteral([IntLiteral(2)],IntType,[IntLiteral(1),IntLiteral(2)]))])),FuncCall(foo,[Id(b)])]))])

@@ -1,0 +1,1 @@
+Program([VarDecl(num,IntLiteral(42)),ConstDecl(key,StringLiteral("secret")),StructType(Key,[(value,StringType)],[]),InterfaceType(Encryptor,[Prototype(encrypt,[],StringType)]),FuncDecl(hello,[],VoidType,Block([Return(IntLiteral(1))])),MethodDecl(Lock,Id(l),FuncDecl(unlock,[],BoolType,Block([Return(BooleanLiteral(false))])))])

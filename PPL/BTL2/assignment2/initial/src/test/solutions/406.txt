@@ -1,0 +1,1 @@
+Program([ConstDecl(a,MethodCall(FieldAccess(ArrayCell(MethodCall(FieldAccess(ArrayCell(Id(a),[IntLiteral(1)]),b),c,[]),[IntLiteral(2)]),d),e,[]))])

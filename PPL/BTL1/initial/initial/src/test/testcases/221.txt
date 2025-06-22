@@ -1,0 +1,3 @@
+func (e Employee) setId(newId int) {
+    e.id := newId
+}

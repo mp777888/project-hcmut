@@ -1,0 +1,4 @@
+
+        func qux() {
+            return [4] Box { {nil}, {3.14}, {abc} };
+        };

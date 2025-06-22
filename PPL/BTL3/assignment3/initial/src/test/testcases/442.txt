@@ -1,0 +1,5 @@
+
+        func (x A) foo() int{
+         
+        }
+        

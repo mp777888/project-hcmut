@@ -1,0 +1,1 @@
+Program([InterfaceType(Logger,[Prototype(Log,[IntType,StringType],BoolType)])])

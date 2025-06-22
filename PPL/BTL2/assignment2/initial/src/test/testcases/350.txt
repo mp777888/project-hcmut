@@ -1,0 +1,4 @@
+
+        type Logger interface {
+            Log(level int, msg string) boolean;
+        }

@@ -1,0 +1,1 @@
+Program([FuncDecl(start,[],VoidType,Block([FuncCall(start,[]),FuncCall(start,[FloatLiteral(1.0),FuncCall(start,[])]),MethodCall(Id(config),start,[]),MethodCall(FieldAccess(ArrayCell(Id(config),[IntLiteral(2)]),option),start,[StringLiteral("go"),IntLiteral(4)])]))])

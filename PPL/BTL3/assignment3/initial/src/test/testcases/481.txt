@@ -1,0 +1,1 @@
+Program([VarDecl(floatArr,ArrayLiteral([IntLiteral(2)],FloatType,[FloatLiteral(1),FloatLiteral(2)])),VarDecl(intArr,ArrayType(IntType,[IntLiteral(2)]),Id(floatArr))])

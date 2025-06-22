@@ -1,0 +1,7 @@
+
+            type ID struct {
+                a int;
+                b float;
+                c string;
+            }
+        

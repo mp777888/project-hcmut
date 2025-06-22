@@ -1,0 +1,1 @@
+Program([StructType(foo,[(foo,IntType)],[]),StructType(a,[(str,StringType),(v,IntType),(v,FloatType)],[])])

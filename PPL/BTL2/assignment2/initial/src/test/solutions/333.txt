@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[],VoidType,Block([Assign(Id(arr),ArrayLiteral([IntLiteral(3)],IntType,[IntLiteral(10),IntLiteral(20),IntLiteral(30)])),ForEach(Id(_),Id(value),Id(arr),Block([]))]))])

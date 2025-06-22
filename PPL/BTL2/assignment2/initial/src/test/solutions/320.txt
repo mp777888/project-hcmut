@@ -1,0 +1,1 @@
+Program([InterfaceType(INTERFACE,[Prototype(foo,[],VoidType),Prototype(foo,[IntType],VoidType),Prototype(foo,[FloatType],IntType),Prototype(foo,[StringType],FloatType)])])

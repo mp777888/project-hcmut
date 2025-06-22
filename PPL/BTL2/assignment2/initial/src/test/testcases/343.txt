@@ -1,0 +1,7 @@
+
+        type Config struct {
+            id int;
+            enabled boolean;
+            path string;
+            version float;
+        }

@@ -1,0 +1,1 @@
+Program([StructType(Person,[(name,StringType),(age,IntType)],[]),MethodDecl(p,Id(Person),FuncDecl(display,[],VoidType,Block([MethodCall(Id(p),display,[]),MethodCall(Id(p),calculate,[])])))])

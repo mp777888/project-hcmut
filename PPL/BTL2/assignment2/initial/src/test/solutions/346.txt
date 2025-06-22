@@ -1,0 +1,1 @@
+Program([InterfaceType(Math,[Prototype(Multiply,[FloatType,FloatType],FloatType)])])

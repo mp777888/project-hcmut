@@ -1,0 +1,4 @@
+
+        const a string = "hello";
+        var b string = "hi";
+        

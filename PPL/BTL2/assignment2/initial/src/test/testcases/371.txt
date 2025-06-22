@@ -1,0 +1,7 @@
+
+        var rate = 0.5;
+        const size = 1000;
+        type Buffer struct {data int; full boolean;}
+        type Reader interface {read() int;}
+        func process() {x := 2;}
+        func (File f) close() {return;}

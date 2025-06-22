@@ -1,0 +1,1 @@
+Program([FuncDecl(foo2,[ParDecl(p,Id(Person))],Id(Person),Block([Return(MethodCall(Id(p),foo,[]))])),MethodDecl(p,Id(Person),FuncDecl(foo,[],Id(Car),Block([Return(FieldAccess(Id(p),car))]))),StructType(Person,[(car,Id(Car))],[]),StructType(Car,[(name,StringType)],[]),ConstDecl(a,IntLiteral(10)),InterfaceType(MyInterface,[Prototype(getCar,[],ArrayType(Id(Car),[Id(a)]))])])

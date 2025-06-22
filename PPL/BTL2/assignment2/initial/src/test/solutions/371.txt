@@ -1,0 +1,1 @@
+Program([VarDecl(rate,FloatLiteral(0.5)),ConstDecl(size,IntLiteral(1000)),StructType(Buffer,[(data,IntType),(full,BoolType)],[]),InterfaceType(Reader,[Prototype(read,[],IntType)]),FuncDecl(process,[],VoidType,Block([Assign(Id(x),IntLiteral(2))])),MethodDecl(File,Id(f),FuncDecl(close,[],VoidType,Block([Return()])))])

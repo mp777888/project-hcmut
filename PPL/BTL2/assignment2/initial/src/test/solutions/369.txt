@@ -1,0 +1,1 @@
+Program([VarDecl(active,BooleanLiteral(false)),ConstDecl(version,FloatLiteral(1.0)),StructType(User,[(id,IntType),(name,StringType)],[]),InterfaceType(Auth,[Prototype(login,[],BoolType)]),FuncDecl(buzz,[],VoidType,Block([FuncCall(print,[StringLiteral("buzz")])])),MethodDecl(Admin,Id(a),FuncDecl(logout,[],StringType,Block([Return(StringLiteral("out"))])))])

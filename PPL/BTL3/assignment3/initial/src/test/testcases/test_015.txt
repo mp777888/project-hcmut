@@ -1,0 +1,1 @@
+Program([StructType(Person,[(name,StringType),(age,IntType)],[]),MethodDecl(p,Id(Person),FuncDecl(display,[],VoidType,Block([ConstDecl(n,FieldAccess(Id(p),name)),VarDecl(a,FieldAccess(Id(p),salary))])))])

@@ -1,0 +1,1 @@
+Program([FuncDecl(getString,[],VoidType,Block([Return()]))])

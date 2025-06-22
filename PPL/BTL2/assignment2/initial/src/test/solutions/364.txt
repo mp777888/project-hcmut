@@ -1,0 +1,1 @@
+Program([VarDecl(x,FloatLiteral(3.14)),ConstDecl(y,StringLiteral("hello")),StructType(Point,[(x,IntType)],[]),InterfaceType(Shape,[Prototype(area,[],FloatType)]),FuncDecl(bar,[],VoidType,Block([FuncCall(print,[IntLiteral(1)])])),MethodDecl(Dog,Id(d),FuncDecl(bark,[],StringType,Block([Return(StringLiteral("woof"))])))])

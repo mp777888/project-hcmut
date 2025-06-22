@@ -1,0 +1,23 @@
+
+        type Calculator interface {
+            Add(x, y int) int
+            Subtract(a, b float, c int) float;
+            Reset()
+            SayHello(name string)
+        }
+        func main() {
+            var a int;
+            for a := 1; a != 10; a := a + 1 {
+                var b int;
+                const c = 5;
+                var d = 5.0;
+            }
+
+            for a <= 10 {
+                a := a + 1;
+            }
+
+        }
+
+
+        

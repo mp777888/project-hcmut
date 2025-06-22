@@ -1,0 +1,1 @@
+Program([VarDecl(count,IntLiteral(10)),ConstDecl(name,StringLiteral("test")),StructType(Box,[(width,IntType),(height,IntType)],[]),InterfaceType(Printable,[Prototype(print,[],VoidType)]),FuncDecl(qux,[],VoidType,Block([Assign(Id(x),IntLiteral(1))])),MethodDecl(Bird,Id(b),FuncDecl(fly,[],BoolType,Block([Return(BooleanLiteral(true))])))])

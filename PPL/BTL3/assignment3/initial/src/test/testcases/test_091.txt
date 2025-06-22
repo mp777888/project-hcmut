@@ -1,0 +1,1 @@
+Program([FuncDecl(process,[ParDecl(a,ArrayType(IntType,[IntLiteral(2),IntLiteral(3)]))],VoidType,Block([Return()])),FuncDecl(main,[],VoidType,Block([VarDecl(arr,ArrayType(IntType,[IntLiteral(3),IntLiteral(2)])),FuncCall(process,[Id(arr)])]))])

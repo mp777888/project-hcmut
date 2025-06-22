@@ -1,0 +1,1 @@
+Program([FuncDecl(calculate,[],StringType,Block([Return(IntLiteral(42))]))])

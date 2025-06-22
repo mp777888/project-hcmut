@@ -1,0 +1,7 @@
+
+        func start() {
+            start();
+            start(1.0, start());
+            config.start();
+            config[2].option.start("go", 4);
+        }

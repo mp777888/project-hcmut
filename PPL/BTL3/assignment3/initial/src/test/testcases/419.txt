@@ -1,0 +1,15 @@
+
+        type a struct {
+
+        }
+        type b struct {
+
+        }
+
+        func (x a) c(){
+
+        }
+
+        func (x a) c(){
+        }
+        

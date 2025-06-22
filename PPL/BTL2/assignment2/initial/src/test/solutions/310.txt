@@ -1,0 +1,1 @@
+Program([VarDecl(num,IntType,FieldAccess(FieldAccess(Id(a),b),c))])

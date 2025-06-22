@@ -1,0 +1,7 @@
+
+        func zap() {
+            arr[true] := arr[false];
+            arr[2][3] := arr[zap()];
+            info.data[4] := info.data[5];
+            info.data[6][7] := info.data[6][8];
+        }

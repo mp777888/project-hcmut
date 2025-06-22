@@ -1,0 +1,7 @@
+
+        var x = 3.14;
+        const y = "hello";
+        type Point struct {x int;}
+        type Shape interface {area() float;}
+        func bar() {print(1);}
+        func (Dog d) bark() string {return "woof";}

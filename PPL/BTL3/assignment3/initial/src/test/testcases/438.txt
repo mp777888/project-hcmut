@@ -1,0 +1,14 @@
+
+        func foo(){
+        } 
+         
+        func main() {
+            var b int = 5;  
+            a := b;
+            
+            c := a + 10; 
+            
+            var d  = c; 
+        }
+        var d int = 5; 
+        

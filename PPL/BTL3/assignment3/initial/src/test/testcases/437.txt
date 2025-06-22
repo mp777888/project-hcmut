@@ -1,0 +1,7 @@
+
+        func foo(a float, b int) {
+        }
+        func main() {
+            foo(5.3, 5);
+        }
+        

@@ -1,0 +1,1 @@
+Program([MethodDecl(a,Id(MyStruct),FuncDecl(foo,[ParDecl(b,FloatType),ParDecl(c,Id(MyStruct))],Id(MyStruct),Block([Return(Id(a))]))),StructType(MyStruct,[(a,IntType)],[])])

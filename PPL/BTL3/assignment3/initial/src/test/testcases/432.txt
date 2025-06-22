@@ -1,0 +1,8 @@
+
+        type Calculator struct {
+                value int;
+        }
+        func (c Calculator) Add(x int, y int) {
+            var a = c.value + x + y * 2;
+        }
+        

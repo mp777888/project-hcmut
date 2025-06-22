@@ -1,0 +1,7 @@
+
+        func baz() {
+            baz("test");
+            baz(baz(), 1.5);
+            data.baz();
+            data[0].info.baz("info");
+        }

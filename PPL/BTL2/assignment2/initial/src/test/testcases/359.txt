@@ -1,0 +1,5 @@
+
+        func baz() {
+            baz("hello");
+            data[1].baz(3, 4);
+        }

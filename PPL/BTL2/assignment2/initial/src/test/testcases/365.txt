@@ -1,0 +1,7 @@
+
+        var flag = true;
+        const pi = 3.14159;
+        type Circle struct {radius float;}
+        type Measurable interface {length() int;}
+        func baz() {return;}
+        func (Rect r) width() int {return 5;}

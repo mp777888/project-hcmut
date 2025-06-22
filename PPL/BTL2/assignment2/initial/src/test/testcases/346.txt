@@ -1,0 +1,4 @@
+
+        type Math interface {
+            Multiply(a, b float) float;
+        }

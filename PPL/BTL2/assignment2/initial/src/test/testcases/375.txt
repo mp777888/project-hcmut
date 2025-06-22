@@ -1,0 +1,7 @@
+
+        func bar() {
+            bar();
+            bar(3);
+            x.bar();
+            x[1].y.bar(5);
+        }

@@ -1,0 +1,1 @@
+Program([VarDecl(a,Id(Person),StructLiteral(Person,[(name,StringLiteral("Thai"))])),VarDecl(b,IntType,Id(a)),StructType(Person,[(name,StringType)],[])])

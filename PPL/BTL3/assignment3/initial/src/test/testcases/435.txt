@@ -1,0 +1,6 @@
+
+        func foo() {
+            var a int;
+            a.name := "abc";
+        }
+        

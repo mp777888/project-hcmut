@@ -1,0 +1,6 @@
+
+        func foo () {
+            for i < 10 {
+            // loop body
+            }
+        }

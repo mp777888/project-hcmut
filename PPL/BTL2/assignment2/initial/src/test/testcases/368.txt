@@ -1,0 +1,7 @@
+
+        var temp = 2.5;
+        const limit = 50;
+        type Vector struct {x float; y float;}
+        type Movable interface {move(x int);}
+        func fizz() {a += 1;}
+        func (Car c) stop() {return;}

@@ -1,0 +1,7 @@
+
+        var active = false;
+        const version = 1.0;
+        type User struct {id int; name string;}
+        type Auth interface {login() boolean;}
+        func buzz() {print("buzz");}
+        func (Admin a) logout() string {return "out";}

@@ -1,0 +1,7 @@
+
+        var id = 123;
+        const code = "abc";
+        type Item struct {price float; qty int;}
+        type Seller interface {sell() float;}
+        func start() {return "start";}
+        func (Store s) open() boolean {return true;}

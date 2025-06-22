@@ -1,0 +1,1 @@
+Program([FuncDecl(qux,[],VoidType,Block([FuncCall(qux,[FloatLiteral(1.5)]),MethodCall(ArrayCell(Id(obj),[IntLiteral(3)]),qux,[])]))])

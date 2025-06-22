@@ -1,0 +1,1 @@
+Program([FuncDecl(zap,[],VoidType,Block([FuncCall(zap,[IntLiteral(4),IntLiteral(5)]),FuncCall(zap,[FuncCall(zap,[]),StringLiteral("end")]),MethodCall(Id(list),zap,[]),MethodCall(FieldAccess(ArrayCell(Id(list),[IntLiteral(2)]),node),zap,[IntLiteral(10),BooleanLiteral(false)])]))])

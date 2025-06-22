@@ -1,0 +1,1 @@
+Program([VarDecl(x,IntType,IntLiteral(10)),VarDecl(y,MethodCall(Id(x),getValue,[]))])

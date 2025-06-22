@@ -1,0 +1,1 @@
+g++ -o main main.cpp restaurant.cpp -I . -std=c++11 -DDEBUG

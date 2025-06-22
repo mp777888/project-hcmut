@@ -1,0 +1,1 @@
+Program([VarDecl(temp,FloatLiteral(2.5)),ConstDecl(limit,IntLiteral(50)),StructType(Vector,[(x,FloatType),(y,FloatType)],[]),InterfaceType(Movable,[Prototype(move,[IntType],VoidType)]),FuncDecl(fizz,[],VoidType,Block([Assign(Id(a),BinaryOp(Id(a),+,IntLiteral(1)))])),MethodDecl(Car,Id(c),FuncDecl(stop,[],VoidType,Block([Return()])))])

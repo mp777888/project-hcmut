@@ -1,0 +1,1 @@
+Program([InterfaceType(I1,[Prototype(votien,[],VoidType)]),InterfaceType(I2,[Prototype(votien,[],VoidType)]),VarDecl(v,Id(I1)),ConstDecl(x,Id(v)),VarDecl(z,Id(I1),Id(x)),VarDecl(k,Id(I2),Id(x))])

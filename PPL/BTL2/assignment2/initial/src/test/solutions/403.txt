@@ -1,0 +1,1 @@
+Program([ConstDecl(a,ArrayCell(FieldAccess(StructLiteral(ID,[]),a),[IntLiteral(2)]))])

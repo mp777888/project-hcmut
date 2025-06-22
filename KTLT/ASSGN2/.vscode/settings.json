@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "ostream": "cpp",
+        "xstring": "cpp",
+        "fstream": "cpp",
+        "memory": "cpp",
+        "system_error": "cpp",
+        "xmemory": "cpp",
+        "iostream": "cpp",
+        "atomic": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "streambuf": "cpp",
+        "xfacet": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xlocnum": "cpp",
+        "xutility": "cpp",
+        "cmath": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}

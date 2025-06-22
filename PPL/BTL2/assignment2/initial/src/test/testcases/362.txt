@@ -1,0 +1,5 @@
+
+        func fizz() {
+            fizz();
+            arr[4].fizz(5, "text");
+        }

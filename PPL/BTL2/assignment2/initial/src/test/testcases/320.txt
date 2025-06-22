@@ -1,0 +1,8 @@
+
+        type INTERFACE interface {
+            foo();
+            foo(a int);
+            foo(b float) int;
+            foo(c string) float;   
+        }
+        

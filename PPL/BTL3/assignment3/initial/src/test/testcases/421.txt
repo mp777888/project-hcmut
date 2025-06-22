@@ -1,0 +1,8 @@
+
+         type TIEN struct {
+    Votien int;
+}
+func (v TIEN) foo (v int) {return;}
+func foo () {return;}
+
+         

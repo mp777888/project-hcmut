@@ -1,0 +1,4 @@
+
+        func baz() {
+            count *= 3;
+        }

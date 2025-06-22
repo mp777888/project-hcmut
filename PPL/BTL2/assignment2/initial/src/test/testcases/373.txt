@@ -1,0 +1,7 @@
+
+        var status = "ok";
+        const threshold = 10;
+        type Signal struct {level int;}
+        type Controller interface {adjust() int;}
+        func end() {print(0);}
+        func (Switch s) toggle() [1]string {return;}

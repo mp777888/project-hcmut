@@ -1,0 +1,5 @@
+
+            func foo () {var a int;}
+            func foo () int {var b float;}
+            func foo () float {var c string;}
+        

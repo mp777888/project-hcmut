@@ -1,0 +1,7 @@
+
+        var num = 42;
+        const key = "secret";
+        type Key struct {value string;}
+        type Encryptor interface {encrypt() string;}
+        func hello() {return 1;}
+        func (Lock l) unlock() boolean {return false;}

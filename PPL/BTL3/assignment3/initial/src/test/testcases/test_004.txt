@@ -1,0 +1,1 @@
+Program([ConstDecl(a,IntLiteral(1)),FuncDecl(a,[],VoidType,Block([Return()]))])

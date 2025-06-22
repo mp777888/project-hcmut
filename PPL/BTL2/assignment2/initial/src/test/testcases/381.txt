@@ -1,0 +1,7 @@
+
+        func hello() {
+            hello();
+            hello(hello(), hello());
+            user.hello();
+            user[5].profile.hello("hi");
+        }

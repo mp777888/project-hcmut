@@ -1,0 +1,1 @@
+Program([VarDecl(v,StringType,StringLiteral(1)),ConstDecl(x,Id(v)),VarDecl(k,StringType,Id(x)),VarDecl(y,BoolType,Id(x))])

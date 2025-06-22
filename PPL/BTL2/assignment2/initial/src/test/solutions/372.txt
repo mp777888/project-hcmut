@@ -1,0 +1,1 @@
+Program([VarDecl(id,IntLiteral(123)),ConstDecl(code,StringLiteral("abc")),StructType(Item,[(price,FloatType),(qty,IntType)],[]),InterfaceType(Seller,[Prototype(sell,[],FloatType)]),FuncDecl(start,[],VoidType,Block([Return(StringLiteral("start"))])),MethodDecl(Store,Id(s),FuncDecl(open,[],BoolType,Block([Return(BooleanLiteral(true))])))])

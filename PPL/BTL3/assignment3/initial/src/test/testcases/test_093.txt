@@ -1,0 +1,1 @@
+Program([VarDecl(result,BinaryOp(StringLiteral(hello),-,IntLiteral(5)))])

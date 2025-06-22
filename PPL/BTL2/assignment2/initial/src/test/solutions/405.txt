@@ -1,0 +1,1 @@
+Program([ConstDecl(a,MethodCall(FuncCall(a,[]),d,[]))])

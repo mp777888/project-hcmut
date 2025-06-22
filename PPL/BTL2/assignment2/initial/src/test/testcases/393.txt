@@ -1,0 +1,7 @@
+
+        func process() {
+            arr[process()] := arr[1];
+            arr[2][3] := arr[4];
+            info.x[5] := info.x[6];
+            info.x[7][8] := info.x[7][9];
+        }

@@ -1,0 +1,9 @@
+
+
+
+        func main() {
+            var a int;
+            a := a + "str";
+        }
+
+        

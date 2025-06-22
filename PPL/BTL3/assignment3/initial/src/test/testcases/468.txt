@@ -1,0 +1,1 @@
+Program([ConstDecl(r,ArrayLiteral([IntLiteral(2),IntLiteral(2)],Id(Person),[StructLiteral(Person,[(name,StringLiteral("Thai")),(age,IntLiteral(20))]),StructLiteral(Person,[(name,StringLiteral("Thai")),(age,BooleanLiteral(true))])])),StructType(Person,[(name,StringType),(age,IntType)],[])])

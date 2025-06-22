@@ -1,0 +1,7 @@
+
+        func hello() {
+            list["key"] := list[0];
+            list[1][2] := list[hello()];
+            node.data[3] := node.data[4];
+            node.data[5][6] := node.data[5][7];
+        }

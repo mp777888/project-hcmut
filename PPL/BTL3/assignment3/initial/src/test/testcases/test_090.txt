@@ -1,0 +1,1 @@
+Program([VarDecl(arr,ArrayType(IntType,[IntLiteral(5)])),VarDecl(idx,BooleanLiteral(true)),VarDecl(value,ArrayCell(Id(arr),[Id(idx)]))])

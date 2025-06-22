@@ -1,0 +1,1 @@
+Program([ConstDecl(r,IntLiteral(4)),ConstDecl(a,IntLiteral(4)),MethodDecl(p,Id(Person),FuncDecl(read,[],ArrayType(IntType,[Id(a)]),Block([Return(ArrayLiteral([Id(r)],IntType,[]))]))),StructType(Person,[(name,StringType),(age,IntType)],[])])

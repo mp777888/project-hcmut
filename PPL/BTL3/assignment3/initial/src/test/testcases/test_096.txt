@@ -1,0 +1,1 @@
+Program([InterfaceType(Drawable,[Prototype(draw,[FloatType],VoidType)]),StructType(Circle,[(radius,FloatType)],[]),MethodDecl(c,Id(Circle),FuncDecl(draw,[ParDecl(scale,IntType)],VoidType,Block([Return()]))),VarDecl(shape,Id(Drawable),StructLiteral(Circle,[(radius,FloatLiteral(5.0))]))])

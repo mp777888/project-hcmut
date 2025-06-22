@@ -1,0 +1,1 @@
+Program([FuncDecl(foo,[],ArrayType(FloatType,[IntLiteral(2)]),Block([Return(ArrayLiteral([IntLiteral(2)],FloatType,[FloatLiteral(1.0),FloatLiteral(2.0)])),Return(ArrayLiteral([IntLiteral(2)],IntType,[IntLiteral(1),IntLiteral(2)]))]))])

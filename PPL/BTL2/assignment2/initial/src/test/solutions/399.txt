@@ -1,0 +1,1 @@
+Program([FuncDecl(qux,[],VoidType,Block([Return(ArrayLiteral([IntLiteral(4)],Id(Box),[[Nil],[FloatLiteral(3.14)],[Id(abc)]]))]))])

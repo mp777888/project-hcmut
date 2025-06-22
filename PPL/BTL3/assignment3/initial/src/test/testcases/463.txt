@@ -1,0 +1,1 @@
+Program([MethodDecl(p,Id(Person),FuncDecl(p,[ParDecl(p,IntType)],VoidType,Block([VarDecl(p,FloatType)]))),StructType(Person,[(name,StringType),(age,IntType)],[])])

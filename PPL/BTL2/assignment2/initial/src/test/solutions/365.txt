@@ -1,0 +1,1 @@
+Program([VarDecl(flag,BooleanLiteral(true)),ConstDecl(pi,FloatLiteral(3.14159)),StructType(Circle,[(radius,FloatType)],[]),InterfaceType(Measurable,[Prototype(length,[],IntType)]),FuncDecl(baz,[],VoidType,Block([Return()])),MethodDecl(Rect,Id(r),FuncDecl(width,[],IntType,Block([Return(IntLiteral(5))])))])

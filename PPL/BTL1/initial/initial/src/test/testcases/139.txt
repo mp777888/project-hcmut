@@ -1,0 +1,1 @@
+structVar.field1

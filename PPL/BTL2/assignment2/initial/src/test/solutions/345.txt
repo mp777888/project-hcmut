@@ -1,0 +1,1 @@
+Program([InterfaceType(Hello,[Prototype(Add,[IntType,IntType],IntType)])])

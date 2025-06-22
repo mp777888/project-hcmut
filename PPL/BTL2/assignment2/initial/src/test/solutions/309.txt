@@ -1,0 +1,1 @@
+Program([ConstDecl(hcmut,BinaryOp(BinaryOp(IntLiteral(2024),+,IntLiteral(2025)),*,IntLiteral(2)))])

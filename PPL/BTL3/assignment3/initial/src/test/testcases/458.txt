@@ -1,0 +1,1 @@
+Program([VarDecl(a,Id(Person)),FuncDecl(foo,[],Id(Person),Block([Return(Id(a)),Return(Id(Person))])),StructType(Person,[(age,IntType)],[])])

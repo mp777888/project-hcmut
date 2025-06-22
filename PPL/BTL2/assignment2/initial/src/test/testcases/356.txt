@@ -1,0 +1,4 @@
+
+        func fizz() {
+            num %= 6;
+        }

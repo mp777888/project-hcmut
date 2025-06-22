@@ -1,0 +1,1 @@
+Program([FuncDecl(calculate,[ParDecl(x,FloatType)],VoidType,Block([VarDecl(y,FloatLiteral(3.0)),VarDecl(z,FloatLiteral(5.0)),ConstDecl(z,FloatLiteral(10.0))]))])

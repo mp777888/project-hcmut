@@ -1,0 +1,5 @@
+
+        func zap() {
+            zap(true, false);
+            list[2].zap(10);
+        }

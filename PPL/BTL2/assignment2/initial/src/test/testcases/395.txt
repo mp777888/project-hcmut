@@ -1,0 +1,7 @@
+
+        func start() {
+            data[true][start()] := data[0][1];
+            data[2] := data[3];
+            obj.info[4] := obj.info[5];
+            obj.info[6][7] := obj.info[6][8];
+        }

@@ -1,0 +1,1 @@
+Program([VarDecl(id,IntType),FuncDecl(foo2,[],IntType,Block([Return(IntLiteral(1))])),MethodDecl(a,Id(MyStruct),FuncDecl(foo,[ParDecl(b,FloatType),ParDecl(c,Id(MyStruct))],Id(MyStruct),Block([Assign(Id(id),BinaryOp(FuncCall(foo2,[]),+,IntLiteral(2))),Return(Id(a))]))),StructType(MyStruct,[(a,IntType)],[])])

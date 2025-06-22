@@ -1,0 +1,1 @@
+Program([StructType(Rectangle,[(width,FloatType),(height,FloatType)],[]),MethodDecl(r,Id(Rectangle),FuncDecl(area,[ParDecl(scale,FloatType)],VoidType,Block([Return()]))),FuncDecl(area,[],VoidType,Block([Return()]))])

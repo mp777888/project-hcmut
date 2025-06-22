@@ -1,0 +1,3 @@
+UNLIMITED_VOID line 2
+LIGHT 1 line 3
+LIGHT -1 line 5

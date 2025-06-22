@@ -1,0 +1,1 @@
+Program([VarDecl(matrix,ArrayType(IntType,[IntLiteral(2),IntLiteral(3)])),VarDecl(value,ArrayCell(Id(matrix),[IntLiteral(1),IntLiteral(2),IntLiteral(3)]))])

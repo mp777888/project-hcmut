@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],VoidType,Block([VarDecl(a,Id(Person),StructLiteral(Person,[(car,StructLiteral(Car,[(name,StringLiteral("Toyota"))]))])),Assign(FieldAccess(FieldAccess(Id(a),car),name),StringLiteral("Toyota"))])),StructType(Person,[(car,Id(Car))],[]),StructType(Car,[(name,StringType)],[])])

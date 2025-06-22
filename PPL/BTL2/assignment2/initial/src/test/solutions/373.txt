@@ -1,0 +1,1 @@
+Program([VarDecl(status,StringLiteral("ok")),ConstDecl(threshold,IntLiteral(10)),StructType(Signal,[(level,IntType)],[]),InterfaceType(Controller,[Prototype(adjust,[],IntType)]),FuncDecl(end,[],VoidType,Block([FuncCall(print,[IntLiteral(0)])])),MethodDecl(Switch,Id(s),FuncDecl(toggle,[],ArrayType(StringType,[IntLiteral(1)]),Block([Return()])))])

@@ -1,0 +1,4 @@
+
+            type Hello interface {
+                Add(x, y int) int;
+            }

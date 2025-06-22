@@ -1,0 +1,7 @@
+
+        var count = 10;
+        const name = "test";
+        type Box struct {width int; height int;}
+        type Printable interface {print();}
+        func qux() {x := 1;}
+        func (Bird b) fly() boolean {return true;}

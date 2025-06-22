@@ -1,0 +1,6 @@
+
+        func main() {
+            var arr ;
+            arr := [3]int{10, 20, 30}
+        }
+        

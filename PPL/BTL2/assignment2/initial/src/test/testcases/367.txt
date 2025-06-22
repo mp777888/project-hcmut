@@ -1,0 +1,7 @@
+
+        var value = "data";
+        const max = 100;
+        type Node struct {val string; next int;}
+        type Iterator interface {next() string;}
+        func zap() {return "done";}
+        func (List l) size() int {return 0;}

@@ -1,0 +1,7 @@
+
+    func (Calculator c) Add(x, y int) int {
+        return x + y;
+    }
+    func (Calculator c) Subtract(a, b float, c int) [3]ID {
+        return ;
+    } 

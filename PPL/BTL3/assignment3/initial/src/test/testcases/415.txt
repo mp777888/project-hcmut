@@ -1,0 +1,11 @@
+
+         func foo (a int, b float) {
+            if !true {
+                a := 3 - 3;
+                a := 3 == 3;
+            }
+            else {
+                a := 3 - 3;
+            }
+        }
+        

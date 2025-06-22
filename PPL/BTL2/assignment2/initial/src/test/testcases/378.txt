@@ -1,0 +1,7 @@
+
+        func zap() {
+            zap(4, 5);
+            zap(zap(), "end");
+            list.zap();
+            list[2].node.zap(10, false);
+        }

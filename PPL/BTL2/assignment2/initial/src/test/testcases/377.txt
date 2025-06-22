@@ -1,0 +1,7 @@
+
+        func qux() {
+            qux();
+            qux(true);
+            obj.qux();
+            obj[3].val.qux(qux());
+        }

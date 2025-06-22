@@ -1,0 +1,1 @@
+Program([VarDecl(value,StringLiteral("data")),ConstDecl(max,IntLiteral(100)),StructType(Node,[(val,StringType),(next,IntType)],[]),InterfaceType(Iterator,[Prototype(next,[],StringType)]),FuncDecl(zap,[],VoidType,Block([Return(StringLiteral("done"))])),MethodDecl(List,Id(l),FuncDecl(size,[],IntType,Block([Return(IntLiteral(0))])))])

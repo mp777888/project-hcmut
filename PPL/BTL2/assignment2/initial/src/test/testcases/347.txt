@@ -1,0 +1,4 @@
+
+        type Printer interface {
+            Print(message string);
+        }
